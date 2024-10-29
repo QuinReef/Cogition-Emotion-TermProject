@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+
+# VS Code
+.vscode/
+.history/
+
+# IDE-specific files
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python testing
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Pytest
+.cache/
+pytestdebug.log
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Environment variables
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
